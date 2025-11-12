@@ -1,0 +1,21 @@
+{
+    "servers": {
+        "godot": {
+            "command": "node",
+            "args": [
+                "C:\\Users\\rivie\\CursorProjects\\godot-mcp\\build\\index.js"
+            ]
+        },
+        "godot-docs": {
+            "command": "pnpm",
+            "args": [
+                "--prefix",
+                "C:\\Users\\rivie\\CursorProjects\\godot-doc-mcp",
+                "start"
+            ],
+            "env": {
+                "GODOT_DOC_DIR": "C:\\Users\\rivie\\CursorProjects\\godot-doc-mcp\\doc"
+            }
+        }
+    }
+}
