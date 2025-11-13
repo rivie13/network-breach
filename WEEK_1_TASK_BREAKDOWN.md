@@ -42,7 +42,7 @@
 - [x] Create `scripts/managers/`, `scripts/systems/`, `scripts/components/`, `scripts/data/`, `scripts/events/`
 
 **Godot Tools:** File system explorer, use Godot's file browser  
-**Time:** 30 min
+**Time:** 30 min ✅ COMPLETE
 
 ---
 
@@ -59,7 +59,7 @@
 - [x] Disable V-Sync (for faster iteration)
 
 **Godot Path:** Project → Project Settings → General/Input Map/Physics  
-**Time:** 30 min
+**Time:** 30 min ✅ COMPLETE
 
 ---
 
