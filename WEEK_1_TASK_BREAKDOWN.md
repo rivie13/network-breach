@@ -35,11 +35,11 @@
 #### 2.1 Create Folder Structure
 **Task:** Set up `/assets`, `/scenes`, `/scripts`, `/addons` directories  
 **Subtasks:**
-- [ ] Create `assets/sprites/towers/`, `assets/sprites/enemies/`, `assets/sprites/nodes/`, `assets/sprites/fx/`
-- [ ] Create `assets/sounds/sfx/`, `assets/sounds/music/`
-- [ ] Create `assets/fonts/`, `assets/data/`
-- [ ] Create `scenes/game/`, `scenes/ui/`, `scenes/menus/`
-- [ ] Create `scripts/managers/`, `scripts/systems/`, `scripts/components/`, `scripts/data/`, `scripts/events/`
+- [x] Create `assets/sprites/towers/`, `assets/sprites/enemies/`, `assets/sprites/nodes/`, `assets/sprites/fx/`
+- [x] Create `assets/sounds/sfx/`, `assets/sounds/music/`
+- [x] Create `assets/fonts/`, `assets/data/`
+- [x] Create `scenes/game/`, `scenes/ui/`, `scenes/menus/`
+- [x] Create `scripts/managers/`, `scripts/systems/`, `scripts/components/`, `scripts/data/`, `scripts/events/`
 
 **Godot Tools:** File system explorer, use Godot's file browser  
 **Time:** 30 min
@@ -49,14 +49,14 @@
 #### 2.2 Configure Project Settings
 **Task:** Set Godot physics, rendering, input, and display settings  
 **Subtasks:**
-- [ ] Set resolution to 1920x1080
-- [ ] Enable physics 2D
-- [ ] Create input map entries:
-  - [ ] `ui_click_left` → Mouse Button Left
-  - [ ] `ui_click_right` → Mouse Button Right
-  - [ ] `ui_pause` → Spacebar
-- [ ] Set default physics gravity to (0, 0) — tower defense, not platformer
-- [ ] Disable V-Sync (for faster iteration)
+- [x] Set resolution to 1920x1080
+- [x] Enable physics 2D
+- [x] Create input map entries:
+  - [x] `ui_click_left` → Mouse Button Left
+  - [x] `ui_click_right` → Mouse Button Right
+  - [x] `ui_pause` → Spacebar
+- [x] Set default physics gravity to (0, 0) — tower defense, not platformer
+- [x] Disable V-Sync (for faster iteration)
 
 **Godot Path:** Project → Project Settings → General/Input Map/Physics  
 **Time:** 30 min

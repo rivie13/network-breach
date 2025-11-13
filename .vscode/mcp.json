@@ -4,7 +4,10 @@
             "command": "node",
             "args": [
                 "C:\\Users\\rivie\\CursorProjects\\godot-mcp\\build\\index.js"
-            ]
+            ],
+            "env": {
+                "GODOT_PATH": "C:\\Program Files\\Godot\\Godot_v4.5.1-stable_win64.exe"
+            }
         },
         "godot-docs": {
             "command": "pnpm",
